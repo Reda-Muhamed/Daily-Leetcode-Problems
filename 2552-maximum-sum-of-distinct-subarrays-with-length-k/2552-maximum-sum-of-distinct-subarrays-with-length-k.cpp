@@ -19,12 +19,8 @@ public:
             freq[nums[right]]++;
             currentSum += nums[right];
 
-            // If duplicates exist or window size exceeds k, adjust the window
             while (freq[nums[right]] > 1 || (right - left + 1) > k) {
                 freq[nums[left]]--;
-                // if (freq[nums[left]] == 0) {
-                //     freq.erase(nums[left]);
-                // }
                 currentSum -= nums[left];
                 left++;
             }
