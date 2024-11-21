@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Matrix
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
