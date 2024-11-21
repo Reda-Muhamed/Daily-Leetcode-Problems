@@ -14,34 +14,40 @@ public:
             int x = wall[0], y = wall[1];
             grid[x][y] = -1;
         }
-        
+        int res = 0;
          for (const auto& guard : guards) {
             int x = guard[0], y = guard[1];
             for(int j = y-1;j>=0;j--){
                 if(grid[x][j]==1 || grid[x][j]==-1)break;
+                if(grid[x][j]==2)
+                    continue;
+                
+                 res++;
                 grid[x][j]=2;
             }
              for(int j = y+1;j<n;j++){
                 if(grid[x][j]==1 || grid[x][j]==-1)break;
+                   if(grid[x][j]==2)
+                    continue;
+                   res++;
                 grid[x][j]=2;
             }
               for(int j = x-1;j>=0;j--){
                 if(grid[j][y]==1 || grid[j][y]==-1)break;
+                   if(grid[j][y]==2)
+                    continue;
+                 res++;
                 grid[j][y]=2;
             }
              for(int j = x+1;j<m;j++){
                 if(grid[j][y]==1 || grid[j][y]==-1)break;
+                  if(grid[j][y]==2)
+                    continue;
+                res++;
                 grid[j][y]=2;
             }
          }
-         int res = 0;
-         for(int i = 0;i<m;i++){
-            for(int j =0;j<n;j++){
-                if(grid[i][j]==0){
-                    res++;
-                }
-            }
-         }
-    return res;
+         
+    return (n*m) - res - guards.size() - walls.size();
     }
 };
