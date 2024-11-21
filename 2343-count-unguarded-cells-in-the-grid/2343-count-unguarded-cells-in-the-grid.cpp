@@ -18,23 +18,19 @@ public:
          for (const auto& guard : guards) {
             int x = guard[0], y = guard[1];
             for(int j = y-1;j>=0;j--){
-                if(grid[x][j]==1)break;
-                if(grid[x][j]==-1)break;
+                if(grid[x][j]==1 || grid[x][j]==-1)break;
                 grid[x][j]=2;
             }
              for(int j = y+1;j<n;j++){
-                if(grid[x][j]==1)break;
-                if(grid[x][j]==-1)break;
+                if(grid[x][j]==1 || grid[x][j]==-1)break;
                 grid[x][j]=2;
             }
               for(int j = x-1;j>=0;j--){
-                if(grid[j][y]==1)break;
-                if(grid[j][y]==-1)break;
+                if(grid[j][y]==1 || grid[j][y]==-1)break;
                 grid[j][y]=2;
             }
              for(int j = x+1;j<m;j++){
-                if(grid[j][y]==1)break;
-                if(grid[j][y]==-1)break;
+                if(grid[j][y]==1 || grid[j][y]==-1)break;
                 grid[j][y]=2;
             }
          }
