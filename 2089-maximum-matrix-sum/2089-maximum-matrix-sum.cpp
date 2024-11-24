@@ -11,13 +11,13 @@ public:
         long long res = 0;
         for(int i = 0;i<len;i++){
             for(int j = 0;j<len;j++){
+                res+=abs(matrix[i][j]);
                 if(matrix[i][j]<0){
                     c++;
                     maxN = max(maxN,matrix[i][j]);
-                    res+=(-1*matrix[i][j]);
+                  
                 }else if(matrix[i][j]>0)
                 {
-                    res+=matrix[i][j];
                     minP = min(minP , matrix[i][j]);
                 }
                 else z++;
