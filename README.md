@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
