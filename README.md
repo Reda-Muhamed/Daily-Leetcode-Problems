@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2201-valid-arrangement-of-pairs) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
