@@ -17,7 +17,7 @@ public:
                 int l = queries[i][0], r = queries[i][1], val = queries[i][2];
                 diff[l] += val;
                 if (r + 1 < n) {
-                    diff[r + 1] -= val;
+                    diff[r + 1] =diff[r + 1] - val;
                 }
             }
             
