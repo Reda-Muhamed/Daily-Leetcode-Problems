@@ -12,7 +12,7 @@ public:
         while (left <= right) {
             int mid = left + (right - left) / 2;
         
-            vector<long long> diff(n + 1, 0);
+            vector<long long> diff(n , 0);
             for (int i = 0; i < mid; i++) {
                 int l = queries[i][0], r = queries[i][1], val = queries[i][2];
                 diff[l] += val;
@@ -32,10 +32,10 @@ public:
             }
             
             if (allZero) {
-                ans = mid;      // mid queries are enough to zero the array.
-                right = mid - 1; // try to see if we can do with fewer queries.
+                ans = mid;     
+                right = mid - 1;
             } else {
-                left = mid + 1; // need more queries.
+                left = mid + 1; 
             }
         }
         return ans;
