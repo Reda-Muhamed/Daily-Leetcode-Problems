@@ -31,7 +31,7 @@ public:
                 }
             }
             
-            if (allZero) {
+            if (allZero == true) {
                 ans = mid;     
                 right = mid - 1;
             } else {
