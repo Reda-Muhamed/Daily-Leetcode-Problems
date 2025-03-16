@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
