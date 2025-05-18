@@ -1,26 +1,35 @@
 public class Solution {
-    Dictionary<int, int> dp = new Dictionary<int, int>();
-
     public int CoinChange(int[] coins, int amount) {
-        int result = CoinChangeRec(coins, amount);
-        return result == int.MaxValue ? -1 : result;
+        CoinChangeDP(coins, amount, out int[] C, out int[] S);
+        return C[amount] == int.MaxValue ? -1 : C[amount];
     }
 
-    private int CoinChangeRec(int[] coins, int amount) {
-        if (amount == 0) return 0;
-        if (amount < 0) return int.MaxValue;
+    public void CoinChangeDP(int[] coins, int n, out int[] C, out int[] S) {
+        C = new int[n + 1];
+        S = new int[n + 1];
 
-        if (dp.ContainsKey(amount)) return dp[amount];
-
-        int minCoins = int.MaxValue;
-        foreach (int coin in coins) {
-            int res = CoinChangeRec(coins, amount - coin);
-            if (res != int.MaxValue) {
-                minCoins = Math.Min(minCoins, res + 1);
-            }
+        for (int i = 1; i <= n; i++) {
+            C[i] = int.MaxValue;
         }
 
-        dp[amount] = minCoins;
-        return minCoins;
+        C[0] = 0;
+
+        for (int p = 1; p <= n; p++) {
+            int min = int.MaxValue;
+            int coin = -1;
+
+            for (int i = 0; i < coins.Length; i++) {
+                int prev = p - coins[i];
+                if (prev >= 0 && C[prev] != int.MaxValue) {
+                    if (1 + C[prev] < min) {
+                        min = 1 + C[prev];
+                        coin = i;
+                    }
+                }
+            }
+
+            C[p] = min;
+            S[p] = coin;
+        }
     }
 }
