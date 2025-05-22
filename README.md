@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 ## Counting
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
