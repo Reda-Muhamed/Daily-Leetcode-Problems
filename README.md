@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
