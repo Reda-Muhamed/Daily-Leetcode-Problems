@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0344-reverse-string](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
