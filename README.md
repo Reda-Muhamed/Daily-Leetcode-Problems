@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
