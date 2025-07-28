@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
