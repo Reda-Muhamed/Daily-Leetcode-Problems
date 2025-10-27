@@ -5,7 +5,7 @@ public:
         int total = 0;
 
         for (auto& row : bank) {
-            int curr = count(row.begin(), row.end(), '1'); // count 1's in the row
+            int curr = count(row.begin(), row.end(), '1'); 
             if (curr > 0) {
                 total += prev * curr;
                 prev = curr;
