@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Breadth-First Search
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 ## Database
 |  |
 | ------- |
