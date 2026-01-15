@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3453-separate-squares-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3453-separate-squares-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Database
 |  |
 | ------- |
