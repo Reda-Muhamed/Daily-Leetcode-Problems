@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1415-students-and-examinations](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1415-students-and-examinations) |
+| [1484-group-sold-products-by-the-date](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
