@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3453-separate-squares-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3453-separate-squares-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Counting
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
