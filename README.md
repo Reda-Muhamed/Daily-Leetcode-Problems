@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Database
 |  |
