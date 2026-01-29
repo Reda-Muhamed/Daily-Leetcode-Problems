@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
@@ -275,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
