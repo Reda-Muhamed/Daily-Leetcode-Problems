@@ -1,11 +1,21 @@
 public class Solution {
     public int MinimumCost(int[] nums) {
-        int res = nums[0];
-        int[] part = new int[nums.Length-1];
-        Array.Copy(nums, 1, part, 0,nums.Length-1 );
-        Array.Sort(part);
-        return res+part[0]+part[1];
-      
+        var m1 = int.MaxValue;
+        var m2 = int.MaxValue;
+        for (var i = 1; i < nums.Length; i++)
+        {    
+            if (m1 >= nums[i])
+            {
+                m2 = m1;
+                m1 = nums[i];
+            }
+            else if (m2 >= nums[i])
+            {
+                m2 = nums[i];
+            }
+        }
+
+        return nums[0] + m1 + m2;
 
     }
 }
