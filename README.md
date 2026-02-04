@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3637-trionic-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
