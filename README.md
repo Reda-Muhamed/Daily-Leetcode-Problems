@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3379-transformed-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Greedy
 |  |
 | ------- |
