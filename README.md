@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -288,4 +290,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
