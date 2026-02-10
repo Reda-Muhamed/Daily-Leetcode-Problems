@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3637-trionic-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
