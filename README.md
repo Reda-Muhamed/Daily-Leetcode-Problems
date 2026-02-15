@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3379-transformed-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
