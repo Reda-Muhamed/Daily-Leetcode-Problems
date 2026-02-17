@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0401-binary-watch) |
 ## Memoization
 |  |
 | ------- |
