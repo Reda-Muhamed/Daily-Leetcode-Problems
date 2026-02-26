@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2201-valid-arrangement-of-pairs) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -324,5 +326,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
