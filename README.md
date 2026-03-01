@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0344-reverse-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
