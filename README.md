@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1603-running-sum-of-1d-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0759-set-intersection-size-at-least-two) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
