@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
