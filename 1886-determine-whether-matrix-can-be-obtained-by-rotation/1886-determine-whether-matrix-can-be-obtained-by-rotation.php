@@ -9,7 +9,7 @@ class Solution
     function findRotation($mat, $target)
     {
         if ($mat == $target) return true;
-         $rotations = count($mat)+1;
+         $rotations = 4;
         while ($rotations--) {
             $mat = $this->rotate($mat);
             if ($mat == $target) return true;
