@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1755-defuse-the-bomb) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [2089-maximum-matrix-sum](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2089-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
