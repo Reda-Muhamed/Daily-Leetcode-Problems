@@ -1,6 +1,8 @@
-select id  from (
-    select id,temperature,recordDate,lag(temperature) over (order by recordDate ) as prevTemp, lag(recordDate) over (order by recordDate ) as prevDate
+with weatherTemp as(
+    select id, recordDate, temperature,
+    lag(temperature) over (order by recordDate) as prevTemp,
+    lag(recordDate) over (order by recordDate) as prevDate
     from Weather
 )
- as t  
-where (temperature > prevTemp and DATEDIFF(recordDate , prevDate)= 1);
+select id from weatherTemp
+where temperature > prevTemp and datediff(recordDate,prevDate)= 1
