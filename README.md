@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0067-add-binary) |
 | [0874-walking-robot-simulation](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Greedy
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
