@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1153-product-sales-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1258-article-views-i) |
