@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1153-product-sales-analysis-i) |
+| [1251-average-selling-price](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
