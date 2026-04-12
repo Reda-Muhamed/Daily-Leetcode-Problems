@@ -14,4 +14,5 @@
 
 select if(id % 2 = 1 , if(id = (select max(id) from Seat) , id , id + 1) , id - 1 ) as id , student
 from Seat 
+group by id
 order by id
