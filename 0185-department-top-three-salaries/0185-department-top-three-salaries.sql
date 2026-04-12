@@ -1,9 +1,5 @@
 # Write your MySQL query statement below
--- with temp as (
---     select departmentId , salary 
---      from Employee 
---      order by departmentId ,salary desc
--- )
+
 with ranked_employees as (
     select 
         departmentid, 
