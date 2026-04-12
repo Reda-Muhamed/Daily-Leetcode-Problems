@@ -15,4 +15,4 @@ with temp as (
     )
 )
 
-select round(sum(tiv_2016),2) as tiv_2016  from temp
+select round(sum(tiv_2016),2) as tiv_2016 from temp
