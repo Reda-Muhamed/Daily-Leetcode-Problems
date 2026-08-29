@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Database
 |  |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
