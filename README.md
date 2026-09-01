@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [2478-longest-nice-subarray](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
