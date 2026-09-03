@@ -3,11 +3,8 @@ public class Solution {
        int temp = nums1.Min();
        if (temp % 2 == 0) {
             for (int i = 0 ;i<nums1.Length; i++) {
-                if (nums1[i] % 2 == 0) {
-                    continue;
-                } else {
+                if ((nums1[i] & 1) == 1) 
                     return false;
-                }
             }
             return true;
        }
