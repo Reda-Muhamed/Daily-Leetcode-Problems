@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
