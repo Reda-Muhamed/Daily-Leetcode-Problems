@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [3643-zero-array-transformation-ii](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3903-smallest-stable-index-i](https://github.com/Reda-Muhamed/Daily-Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Queue
 |  |
 | ------- |
